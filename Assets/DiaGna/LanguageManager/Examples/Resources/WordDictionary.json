@@ -1,0 +1,32 @@
+{
+  "words": [
+    {
+      "type": 0,
+      "id": "Hi",
+      "translations": [
+        {
+          "languageId": "En",
+          "value": "Hi"
+        },
+        {
+          "languageId": "Fa",
+          "value": "سلام"
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "id": "Test",
+      "translations": [
+        {
+          "languageId": "En",
+          "value": "En"
+        },
+        {
+          "languageId": "Fa",
+          "value": "Fa"
+        }
+      ]
+    }
+  ]
+}
